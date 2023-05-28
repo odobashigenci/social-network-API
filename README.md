@@ -18,7 +18,6 @@ This an API for a social network web application where users can share their tho
   - [Installation](#installation)
   - [Usage](#usage)
   - [Link](#link)
-  - [Preview](#preview)
   - [License](#license)
   - [Contributing](#contributing)
   - [Questions and Issues](#questions-and-issues)
@@ -40,21 +39,10 @@ Using the comand line in your terminal, navigate run the "npm start command" to 
 
 ## Link
 
-[Click here for demo](https://drive.google.com/file/d/1ZlHrnqngWa1ke5YFaFz3KubM7wSdafaP/view)
+[Click here for demo]((https://drive.google.com/file/d/1ZlHrnqngWa1ke5YFaFz3KubM7wSdafaP/view)
 
 </br>
 
-## Preview
-
-<div align = "center">
-
-
-![Preview]()
-
-
-</div>
-
-</br>
 
 ## License
 
