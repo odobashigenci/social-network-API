@@ -40,7 +40,7 @@ Using the comand line in your terminal, navigate run the "npm start command" to 
 
 ## Link
 
-[Demo](https://drive.google.com)
+[Click here for demo]([https://drive.google.com](https://drive.google.com/file/d/1ZlHrnqngWa1ke5YFaFz3KubM7wSdafaP/view))
 
 </br>
 
