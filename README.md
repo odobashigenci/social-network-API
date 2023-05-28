@@ -1,7 +1,5 @@
 # social-network-API
 
-A back end for an e-commerce site
-
 </br>
 
 ![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)
@@ -10,15 +8,13 @@ A back end for an e-commerce site
 
 ## Description
 
-This app is a back end for an e-commerce site. This app is built using Express.js, MySQL, and Sequelize.
+This an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
 </br>
 
 ## Table of Content
 
-- [social-network-API](#social-network-api)
-  - [Description](#description)
-  - [Table of Content](#table-of-content)
+
   - [Installation](#installation)
   - [Usage](#usage)
   - [Link](#link)
@@ -26,8 +22,6 @@ This app is a back end for an e-commerce site. This app is built using Express.j
   - [License](#license)
   - [Contributing](#contributing)
   - [Questions and Issues](#questions-and-issues)
-    - [GitHub accunt](#github-accunt)
-    - [Email me](#email-me)
  
 
 </br>
@@ -40,16 +34,13 @@ To install this app, download the file folder or clone the repo in your preferre
 
 ## Usage
 
-Using the comand line in your terminal, navigate into e-commerce/Develp directory. run "mysql" command, and log in with your credentials. 
-Then run the "db/schema.sql" command to read the database from the schama.sql file. Quit mysql. 
-Run "npm run seed" command to run the seeds.js files, and then "npm start" to start the server. 
-Open the Insomnia app, to test the code. For more guide, please follow the walk-through vide below 👇
+Using the comand line in your terminal, navigate run the "npm start command" to get the server running, and follow the instructions in the demo below 👇
 
 </br>
 
 ## Link
 
-[Demo](https://drive.google.com/file/d/1aXi1acg-O4-lEro3wNhiGO5XTKamCSiM/view)
+[Demo](https://drive.google.com)
 
 </br>
 
@@ -58,7 +49,7 @@ Open the Insomnia app, to test the code. For more guide, please follow the walk-
 <div align = "center">
 
 
-![Preview](Develop/assets/picture/preview.png)
+![Preview]()
 
 
 </div>
